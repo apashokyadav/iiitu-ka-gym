@@ -1,0 +1,9 @@
+MONGODB_URL1 = mongodb+srv://Pegasus:qwerty60@cluster0.oecti.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+MONGODB_URL= mongodb+srv://piyush00:1234567890@cluster0.fkfg4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+CLOUD_API_KEY = 592291591914896
+CLOUD_API_SECRET = nILnZZpO-zrnCfZgzJHmR3nFMN8
+CLOUD_NAME = developement-nirmann
+
+
+REFRESH_TOKEN_SECRET = Pegasus
+ACCESS_TOKEN_SECRET = Invictus
